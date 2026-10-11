@@ -10,9 +10,12 @@ body{
         font-weight: bold;
         margin: 0;
     }
-    #About_me_title{
+    #title{
         background-color: #9aafe6;
         font-weight: bold;
         color: #333;
+    }
+    #ed1{
+        color: #ff5c5c;
     }
 }
